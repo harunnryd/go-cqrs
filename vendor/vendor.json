@@ -1,0 +1,35 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "quizes",
+			"revision": ""
+		},
+		{
+			"path": "quizes/broker",
+			"revision": ""
+		},
+		{
+			"path": "quizes/command",
+			"revision": ""
+		},
+		{
+			"path": "quizes/commandApi",
+			"revision": ""
+		},
+		{
+			"path": "quizes/handler",
+			"revision": ""
+		},
+		{
+			"path": "quizes/queryApi",
+			"revision": ""
+		},
+		{
+			"path": "quizes/util",
+			"revision": ""
+		}
+	],
+	"rootPath": "quizes"
+}
