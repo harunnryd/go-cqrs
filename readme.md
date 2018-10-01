@@ -39,3 +39,7 @@ You can change the host to match docker-machine ip :)
 [![Postman](https://image.ibb.co/dBcwJe/t0.png "Postman")](https://image.ibb.co/dBcwJe/t0.png "Postman")
 
 [![Terminal](https://image.ibb.co/bE6Crz/t1.png "Terminal")](https://image.ibb.co/bE6Crz/t1.png "Terminal")
+
+### ERD
+
+[![ERD](https://image.ibb.co/iKF9Oe/erd_testing.png "ERD")](https://image.ibb.co/iKF9Oe/erd_testing.png "ERD")
